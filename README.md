@@ -1,2 +1,2 @@
 # schwarzefaker
-Arnold Schwarzenegger faker gem.
+Randomly generate Arnold Schwarznegger quote, movie, character, and villain.
